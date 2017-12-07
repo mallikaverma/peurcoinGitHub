@@ -16,7 +16,6 @@ With OpenZeppelin, you can build distributed applications, protocols and organiz
 [![Commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg)]
 [![Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)]
 
-
 Peur is on a mission to:
 - Develop a global decentralized payment and marketplace system.
 - Make the payment process simple and efficient with just one click.
@@ -50,7 +49,6 @@ and reputation.
 ## Peur warning
 
 Peur project is a work in progress.current versions is still under development and it's not fully secured and functional, closed beta will be release in november 2018.Please be sure that you understand the risk before participate in peur ICO
-
 
 ## Collaborating organizations and audits by OpenZeppelin
 - [Golem](https://golem.network/)
