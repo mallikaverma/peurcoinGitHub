@@ -14,7 +14,7 @@ With OpenZeppelin, you can build distributed applications, protocols and organiz
 
 [![Package](https://img.shields.io/github/package-json/v/badges/shields.svg)]
 [![Commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg)]
-[![Travis](https://img.shields.io/travis/USER/REPO/BRANCH.svg)]
+[![Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)]
 
 Peur is on a mission to:
 - Develop a global decentralized payment and marketplace system.
