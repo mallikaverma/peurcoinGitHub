@@ -9,56 +9,47 @@ With OpenZeppelin, you can build distributed applications, protocols and organiz
 - using common contract security patterns (See [Onward with Ethereum Smart Contract Security](https://medium.com/bitcorps-blog/onward-with-ethereum-smart-contract-security-97a827e47702#.y3kvdetbz))
 - in the [Solidity language](http://solidity.readthedocs.io/en/develop/).
 
-> NOTE: New to smart contract development? Check our [introductory guide](https://medium.com/zeppelin-blog/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05#.cox40d2ut).
+## Peur marketplace
+- [Peur](https://www.)
 
-## Getting Started
+[![Package](https://img.shields.io/github/package-json/v/badges/shields.svg)]
+[![Commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg)]
+[![Travis](https://img.shields.io/travis/USER/REPO/BRANCH.svg)]
 
-OpenZeppelin integrates with [Truffle](https://github.com/ConsenSys/truffle), an Ethereum development environment. Please install Truffle and initialize your project with `truffle init`.
+Peur is on a mission to:
+- Develop a global decentralized payment and marketplace system.
+- Make the payment process simple and efficient with just one click.
+- Make accepting payments for merchants generally cheaper and faster transfer.
+- Provide an opportunity for merchants to accept mobile payment.
+- Bring the Ethereum-based token economy to lifestyle and part of life
+In simple words: our mission is to develop and deploy the best transaction system
+and accomodate small and enterprise b2b,b2c and service provider company to
+growth together as one in peur marketplace.transactionand fund transfer will be done
+in one step.transaction fees would be simplified from many to a simple transaction fee
+wherever the consumer and merchants are located.
 
-```sh
-npm install -g truffle
-mkdir myproject && cd myproject
-truffle init
-```
+## Peur solution
 
-To install the OpenZeppelin library, run:
-```sh
-npm init
-npm install zeppelin-solidity
+a decentralized system working together through a blockchain
+based payment gateway,we are creating a decentralized payment and trust solu
+tion on the ethereum blockchain.merchants will be able to accept Ethereum based
+cryptocurrencies and exchange them with traditional (fiat) currencies.merchants
+and customers will participate in global decentralized e-commerce with total trust
+and reputation.
+- Zero interest fee in credit payment
+- Build merchants/service provider reputation and trust
+- Build convenience in online and offline transaction for both merchant and customers
+- Build healthy ecosystem among merchants and customers
+- Fraud protection
+- Visible and deep web marketplace all in one package
+- Fast and low cost transfer payment
+- Annual financial report
+- Annual dividen for tokens holder
 
-# If you are using yarn, add dependency like this -
-yarn add zeppelin-solidity
-```
+## Peur warning
 
-After that, you'll get all the library's contracts in the `node_modules/zeppelin-solidity/contracts` folder. You can use the contracts in the library like so:
+Peur project is a work in progress.current versions is still under development and it's not fully secured and functional, closed beta will be release in november 2018.Please be sure that you understand the risk before participate in peur ICO
 
-```js
-import 'zeppelin-solidity/contracts/ownership/Ownable.sol';
-
-contract MyContract is Ownable {
-  ...
-}
-```
-
-
-## Security
-OpenZeppelin is meant to provide secure, tested and community-audited code, but please use common sense when doing anything that deals with real money! We take no responsibility for your implementation decisions and any security problem you might experience.
-
-If you find a security issue, please email [security@openzeppelin.org](mailto:security@openzeppelin.org).
-
-## Developer Resources
-
-Building a distributed application, protocol or organization with OpenZeppelin?
-
-- Read documentation: http://zeppelin-solidity.readthedocs.io/en/latest/
-
-- Ask for help and follow progress at: https://slack.openzeppelin.org/
-
-Interested in contributing to OpenZeppelin?
-
-- Framework proposal and roadmap: https://medium.com/zeppelin-blog/zeppelin-framework-proposal-and-development-roadmap-fdfa9a3a32ab#.iain47pak
-- Issue tracker: https://github.com/OpenZeppelin/zeppelin-solidity/issues
-- Contribution guidelines: https://github.com/OpenZeppelin/zeppelin-solidity/blob/master/CONTRIBUTING.md
 
 ## Collaborating organizations and audits by OpenZeppelin
 - [Golem](https://golem.network/)
