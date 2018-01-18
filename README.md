@@ -23,20 +23,16 @@ Peur is on a mission to:
 - Make accepting payments for merchants generally cheaper and faster transfer.
 - Provide an opportunity for merchants to accept mobile payment.
 - Bring the Ethereum-based token economy to lifestyle and part of life.
-In simple words: our mission is to develop and deploy the best transaction system
-and accomodate small and enterprise B2B,B2C and freelancer/service provider company to
-growth together as one in Peur marketplace. Transactionand fund transfer will be done
-in one step. Transaction fees would be simplified from many to a simple transaction fee
-wherever the consumer and merchants are located.
+In simple words:
+Our mission is to develop and deploy the best transaction system and accomodate small and enterprise B2B,B2C and freelancer/service provider company to growth together as one in Peur marketplace.
+Transactionand fund transfer will be done in one step.
+Transaction fees would be simplified from many to a simple transaction fee wherever the consumer and merchants are located.
 
 ## Peur solution
 
-a decentralized system working together through a Ethereum blockchain
-based payment gateway, we are creating a decentralized payment and trust solu
-tion on the Ethereum blockchain. Merchants will be able to accept Ethereum based
-cryptocurrencies and exchange them with traditional (fiat) currencies instanly. Merchants
-and customers will participate in global decentralized e-commerce with total trust
-and reputation smart contract.
+A decentralized system working together through a Ethereum blockchain based payment gateway, we are creating a decentralized payment and trust solution on the Ethereum blockchain.
+Merchants will be able to accept Ethereum based cryptocurrencies and exchange them with traditional (fiat) currencies instanly. 
+Merchants and customers will participate in global decentralized e-commerce with total trust and reputation smart contract.
 - Zero interest fee in credit payment
 - Build merchants/service provider reputation and trust
 - Build convenience in online and offline transaction for both merchant and customers
