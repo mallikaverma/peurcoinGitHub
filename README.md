@@ -43,6 +43,7 @@ and reputation smart contract.
 - Build healthy ecosystem among merchants and customers
 - Anti manipulation and fraud
 - Marketplace and payroll integration all in one platform
+- Convert directly from crypto currency to fiat currency
 - Fast and low cost transfer payment
 - Ensure business continuity
 - Marketplace with the lowest fee
