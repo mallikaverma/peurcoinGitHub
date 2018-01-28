@@ -38,7 +38,7 @@ Merchants and customers will participate in global decentralized e-commerce with
 - Build convenience in online and offline transaction for both merchant and customers
 - Build healthy ecosystem among merchants and customers
 - Anti manipulation and fraud
-- Marketplace and payroll integration all in one platform
+- Marketplace and payroll integration system based on smart contract
 - Convert directly from crypto currency to fiat currency
 - Fast and low cost transfer payment
 - Ensure business continuity
