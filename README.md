@@ -34,7 +34,7 @@ A decentralized system working together through a Ethereum blockchain based paym
 Merchants will be able to accept Ethereum based cryptocurrencies and exchange them with fiat currencies instanly. 
 Merchants and customers will participate in global decentralized e-commerce with total trust and reputation smart contract.
 - Registration system for merchant, company, freelancer, service provider and customer will connect to their social media profile such as Facebook, Instagram, Twitter etc
-- Key performance indicator for merchant, company, freelancer, service provider and customer based on smart contract
+- Key performance indicator for each merchant, company, freelancer, service provider and customer based on smart contract
 - Price parameter will provide the best price for customer compare to the other major marketplace
 - Hall of fame and Hall of shame reputation based on smart contract
 - Zero interest fee in credit payment
