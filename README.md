@@ -13,7 +13,6 @@ With OpenZeppelin, you can build distributed applications, protocols and organiz
 - [Peur](https://peur.io)
 
 [![Package](https://img.shields.io/github/package-json/v/badges/shields.svg)]
-[![Commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg)]
 [![Coverage](https://img.shields.io/codecov/c/github/codecov/example-python.svg)]
 
 
