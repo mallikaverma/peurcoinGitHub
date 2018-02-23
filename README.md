@@ -20,7 +20,7 @@ Peur is on a mission to:
 - Develop a global decentralized payment, payroll integration and marketplace based on smart contract.
 - Make the payment process simple and efficient with just one click.
 - Make accepting payments for merchants generally cheaper and faster transfer.
-- Provide an opportunity for merchants to accept mobile payment.
+- Provide an opportunity for merchants to accept cryptocurrency mobile payment.
 - Bring the Ethereum-based token economy to lifestyle and part of life.
 In simple words:
 Our mission is to develop and deploy the best transaction system and accomodate small and enterprise B2B,B2C and freelancer/service provider company to growth together as one in Peur marketplace.
@@ -40,8 +40,9 @@ Merchants and customers will participate in global decentralized e-commerce with
 - Build merchants/service provider reputation and trust based on smart contract
 - Build convenience in online and offline transaction for both merchant and customers
 - Build healthy ecosystem among merchants and customers
-- Anti manipulation and fraud transactions, reputation rank and payroll
+- Anti manipulation and fraud transactions, reputation rank and payroll system
 - Marketplace and payroll integration system based on smart contract
+- Fair competition between merchant, freelancer, service provider, industry
 - Convert directly from crypto currency to fiat currency local and international through Peur exchange instant rate
 - Fast and low cost transfer payment
 - Ensure business continuity
