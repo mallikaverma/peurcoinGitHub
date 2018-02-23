@@ -1,7 +1,7 @@
 /**
  *  The Peurcoin token contract complies with the ERC20 standard (see https://github.com/ethereum/EIPs/issues/20).
  *  The owner's shareholder of tokens is locked for three year and not all tokens
- *  being sold during or after the crowdsale,reserved token will be use only for loyalty program.
+ *  being sold during or after the crowdsale, reserved token will be use only for loyalty program.
  *  Author: Nancy Abrianna
  *  Internal audit: Felix Norge, John Dewitt
  *  Audit: Smart Contract Consultant
