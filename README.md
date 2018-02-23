@@ -32,7 +32,7 @@ Transaction fees would be simplified from many to a simple transaction fee where
 A decentralized system working together through a Ethereum blockchain based payment gateway, we are creating a decentralized payment, marketplace and trust solution on the Ethereum blockchain.
 Merchants will be able to accept Ethereum based cryptocurrencies and exchange them with fiat currencies instanly. 
 Merchants and customers will participate in global decentralized e-commerce with total trust and reputation smart contract.
-- Registration system for merchant, company, freelancer, service provider and customer will connect to their social media profile such as Facebook, Instagram, Twitter etc
+
 - Key performance indicator for each merchant, company, freelancer, service provider and customer based on smart contract
 - Price parameter will provide the best price for customer compare to the other major marketplace
 - Hall of fame and Hall of shame reputation based on smart contract
@@ -40,7 +40,7 @@ Merchants and customers will participate in global decentralized e-commerce with
 - Build merchants/service provider reputation and trust based on smart contract
 - Build convenience in online and offline transaction for both merchant and customers
 - Build healthy ecosystem among merchants and customers
-- Anti manipulation and fraud
+- Anti manipulation and fraud transactions, reputation rank and payroll
 - Marketplace and payroll integration system based on smart contract
 - Convert directly from crypto currency to fiat currency local and international through Peur exchange instant rate
 - Fast and low cost transfer payment
@@ -54,6 +54,8 @@ With Peur hall of fame and hall of shame, trust and reputation. Peur marketplace
 
 From Community and For Community
 
+- Become Peur ambassador, sales representative, regional manager, forum moderator, participate in Peur development, branch manager etc
+- Accept Peur token as salary for your contribution in Peur community
 
 ## Peur warning
 
