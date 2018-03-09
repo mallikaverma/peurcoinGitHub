@@ -42,8 +42,8 @@ Merchants and customers will participate in global decentralized e-commerce with
 - Build healthy ecosystem among merchants and customers
 - Anti manipulation and fraud transactions, reputation rank and payroll system
 - Marketplace and payroll integration system based on smart contract
-- Fair competition between merchant, freelancer, service provider, industry
-- Convert directly from crypto currency to fiat currency local and international through Peur exchange instant rate
+- Fair competition between merchant, service and company
+- Convert directly from crypto currency to fiat currency locally and internationally through Peur exchange instant rate
 - Fast and low cost transfer payment
 - Ensure business continuity
 - Marketplace with the lowest fee
@@ -53,10 +53,8 @@ With Peur hall of fame and hall of shame, trust and reputation. Peur marketplace
 
 ## Peur community forum
 
-From Community and For Community
-
 - Become Peur ambassador, sales representative, regional manager, forum moderator, participate in Peur development, branch manager etc
-- Accept Peur token as salary for your contribution in Peur community
+- Accept Peur token as reward for your contribution in Peur communities
 
 ## Peur warning
 
