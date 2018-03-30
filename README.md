@@ -56,6 +56,14 @@ With Peur hall of fame and hall of shame, trust and reputation. Peur marketplace
 - Become Peur ambassador, sales representative, regional manager, forum moderator, participate in Peur development, branch manager etc
 - Accept Peur token as reward for your contribution in Peur communities
 
+## Peur official
+
+- [Peur](https://peur.io)
+- [Peur facebook](https://www.facebook.com/PeurICO/)
+- [Peur twitter](https://twitter.com/Peurtoken)
+- [Peur youtube](https://www.youtube.com/channel/UCTIHYp1XKQi6dqDf5pdPX6Q/featured?view_as=subscriber)
+
+
 ## Peur warning
 
 Peur project is a work in progress. Current versions is still under development and it's not fully secured and functional, closed beta will be release in november 2018. Please be sure that you understand the risk before participate in Peur ICO
