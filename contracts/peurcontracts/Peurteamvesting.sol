@@ -192,25 +192,6 @@ contract Ownable {
 }
 
 
-contract PeurToken is StandardToken, Ownable {
-  string public constant name = "Peurcoin";
-  string public constant symbol = "PURC";
-  uint8 public constant decimals = 8;
-  uint256 public constant INITIAL_SUPPLY = 200000000 * 10 ** uint256(decimals); // 200.000.000 Tokens
- // replace with your fund collection multisig address
-  address public constant multisig = 0x0;
-
-
-  // 1 ether = 8.000 Peur tokens
-  uint public constant PRICE = 8000;
-  
-  function PeurToken() {
-      totalSupply = INITIAL_SUPPLY;
-      balances[msg.sender] = INITIAL_SUPPLY;
-      owner = msg.sender;
-  }
-}
-
 /**
  * @title SafeERC20
  * @dev Wrappers around ERC20 operations that throw on failure.
