@@ -58,7 +58,7 @@ With Peur hall of fame and hall of shame, trust and reputation. Peur marketplace
 
 ## Peur official
 
-- [Peur](https://peur.io)
+- [Peur website](https://peur.io)
 - [Peur facebook](https://www.facebook.com/PeurICO/)
 - [Peur twitter](https://twitter.com/Peurtoken)
 - [Peur youtube](https://www.youtube.com/channel/UCTIHYp1XKQi6dqDf5pdPX6Q/featured?view_as=subscriber)
