@@ -64,7 +64,7 @@ With Peur hall of fame and hall of shame, trust and reputation. Peur marketplace
 - [Peur youtube](https://www.youtube.com/channel/UCTIHYp1XKQi6dqDf5pdPX6Q/featured?view_as=subscriber)
 - [Peur reddit](https://www.reddit.com/user/peuradmin)
 - [Peur telegram](https://t.me/peurtelegram)
-- [Peur bitcointalk](
+- [Peur bitcointalk]
 
 
 ## Peur warning
